@@ -2,6 +2,6 @@
 
 import os
 
-file_size = os.path.getsize("content.txt")
+file_size = os.path.getsize("plain_file.txt")
 print()
 print("The size of the file is :", file_size,"bytes")
