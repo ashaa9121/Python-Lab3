@@ -1,7 +1,4 @@
-This is a file.
-lab1 : Example of file read program.
-lab2: read first n lines of file.
-this is line 4
-this is line 5
-this is 6th line
- 
+python
+java
+php
+js
