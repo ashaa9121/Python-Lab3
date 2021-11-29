@@ -9,11 +9,11 @@ def last(x):
 			print(line)
 	
 
-x = int(input("how many last lines do you want to read:"))
+x = int(input("How many last lines do you want to read:"))
 try:
 	if x <= 0:
 		raise Exception
 	else:
 		last(x)
 except Exception as e:
-	print("enter a positive number")
+	print("Enter a positive number")
